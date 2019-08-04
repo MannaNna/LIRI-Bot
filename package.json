@@ -1,0 +1,30 @@
+{
+  "name": "liri-bot",
+  "version": "1.0.0",
+  "description": "LIRI is a Language Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MannaNna/LIRI-Bot.git"
+  },
+  "author": "Mariana Secu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MannaNna/LIRI-Bot/issues"
+  },
+  "homepage": "https://github.com/MannaNna/LIRI-Bot#readme",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "node-file-logger": "^0.9.5",
+    "node-spotify-api": "^1.1.1",
+    "simple-node-logger": "^18.12.23",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.1",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {},
+  "keywords": []
+}

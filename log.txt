@@ -1,0 +1,426 @@
+22:10:51.423 INFO  ================ Song Info ================ 
+22:10:51.423 INFO  artist(s): Backstreet Boys 
+22:10:51.423 INFO  song name: I Want It That Way 
+22:10:51.423 INFO  preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=fd44f470d1a04de88157a34f357c909a 
+22:10:51.423 INFO  album: The Hits--Chapter One 
+22:10:51.423 INFO  ==================THE END================= 
+22:10:51.423 INFO  ================ Song Info ================ 
+22:10:51.423 INFO  artist(s): Backstreet Boys 
+22:10:51.423 INFO  song name: I Want It That Way 
+22:10:51.423 INFO  preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=fd44f470d1a04de88157a34f357c909a 
+22:10:51.423 INFO  album: Millennium 
+22:10:51.423 INFO  ==================THE END================= 
+22:10:51.423 INFO  ================ Song Info ================ 
+22:10:51.423 INFO  artist(s): Mick Jensen 
+22:10:51.423 INFO  song name: I Want It That Way 
+22:10:51.423 INFO  preview song: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=fd44f470d1a04de88157a34f357c909a 
+22:10:51.423 INFO  album: I Want It That Way 
+22:10:51.423 INFO  ==================THE END================= 
+22:10:51.423 INFO  ================ Song Info ================ 
+22:10:51.423 INFO  artist(s): Anthem Lights 
+22:10:51.423 INFO  song name: I Want It That Way 
+22:10:51.423 INFO  preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=fd44f470d1a04de88157a34f357c909a 
+22:10:51.423 INFO  album: Covers Part IV 
+22:10:51.423 INFO  ==================THE END================= 
+22:10:51.423 INFO  ================ Song Info ================ 
+22:10:51.423 INFO  artist(s): Backstreet Boys 
+22:10:51.423 INFO  song name: I Want It That Way - Reimagined 
+22:10:51.423 INFO  preview song: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=fd44f470d1a04de88157a34f357c909a 
+22:10:51.423 INFO  album: I Want It That Way (Reimagined) 
+22:10:51.423 INFO  ==================THE END================= 
+22:10:51.423 INFO  ================ Song Info ================ 
+22:10:51.423 INFO  artist(s): "Weird Al" Yankovic 
+22:10:51.423 INFO  song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys) 
+22:10:51.423 INFO  preview song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=fd44f470d1a04de88157a34f357c909a 
+22:10:51.423 INFO  album: Poodle Hat 
+22:10:51.423 INFO  ==================THE END================= 
+22:10:51.423 INFO  ================ Song Info ================ 
+22:10:51.423 INFO  artist(s): Tyler and Mark 
+22:10:51.423 INFO  song name: I Want It That Way 
+22:10:51.423 INFO  preview song: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=fd44f470d1a04de88157a34f357c909a 
+22:10:51.423 INFO  album: Beautiful Dreams 
+22:10:51.423 INFO  ==================THE END================= 
+22:10:51.424 INFO  ================ Song Info ================ 
+22:10:51.424 INFO  artist(s): Jess and Gabriel 
+22:10:51.424 INFO  song name: I Want It That Way 
+22:10:51.424 INFO  preview song: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=fd44f470d1a04de88157a34f357c909a 
+22:10:51.424 INFO  album: Under the Covers, Vol. 3 
+22:10:51.424 INFO  ==================THE END================= 
+22:10:51.424 INFO  ================ Song Info ================ 
+22:10:51.424 INFO  artist(s): Dynamite Boy 
+22:10:51.424 INFO  song name: I Want It That Way 
+22:10:51.424 INFO  preview song: null 
+22:10:51.424 INFO  album: Punk Goes Pop 
+22:10:51.424 INFO  ==================THE END================= 
+22:10:51.424 INFO  ================ Song Info ================ 
+22:10:51.424 INFO  artist(s): Backstreet Boys 
+22:10:51.424 INFO  song name: I Want It That Way 
+22:10:51.424 INFO  preview song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=fd44f470d1a04de88157a34f357c909a 
+22:10:51.424 INFO  album: 90 Sweet 90s Hits! 
+22:10:51.424 INFO  ==================THE END================= 
+22:10:51.424 INFO  ================ Song Info ================ 
+22:10:51.424 INFO  artist(s): Steel Panther 
+22:10:51.424 INFO  song name: I Want It That Way 
+22:10:51.424 INFO  preview song: null 
+22:10:51.424 INFO  album: I Want It That Way 
+22:10:51.424 INFO  ==================THE END================= 
+22:10:51.424 INFO  ================ Song Info ================ 
+22:10:51.424 INFO  artist(s): Glee Cast 
+22:10:51.424 INFO  song name: Bye Bye Bye / I Want It That Way (Glee Cast Version) 
+22:10:51.424 INFO  preview song: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=fd44f470d1a04de88157a34f357c909a 
+22:10:51.424 INFO  album: Bye Bye Bye / I Want It That Way (Glee Cast Version) 
+22:10:51.424 INFO  ==================THE END================= 
+22:10:51.424 INFO  ================ Song Info ================ 
+22:10:51.424 INFO  artist(s): Backstreet Boys 
+22:10:51.424 INFO  song name: I Want It That Way 
+22:10:51.424 INFO  preview song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=fd44f470d1a04de88157a34f357c909a 
+22:10:51.424 INFO  album: NKOTBSB 
+22:10:51.424 INFO  ==================THE END================= 
+22:10:51.424 INFO  ================ Song Info ================ 
+22:10:51.424 INFO  artist(s): Boyce Avenue 
+22:10:51.424 INFO  song name: I Want It That Way 
+22:10:51.424 INFO  preview song: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=fd44f470d1a04de88157a34f357c909a 
+22:10:51.424 INFO  album: Cover Sessions, Vol. 2 
+22:10:51.424 INFO  ==================THE END================= 
+22:10:51.424 INFO  ================ Song Info ================ 
+22:10:51.424 INFO  artist(s): Scary Pockets,Casey Abrams 
+22:10:51.424 INFO  song name: I Want It That Way 
+22:10:51.424 INFO  preview song: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=fd44f470d1a04de88157a34f357c909a 
+22:10:51.424 INFO  album: Nu Funk 
+22:10:51.424 INFO  ==================THE END================= 
+22:10:51.424 INFO  ================ Song Info ================ 
+22:10:51.424 INFO  artist(s): Manuel Costa 
+22:10:51.424 INFO  song name: I Want It That Way 
+22:10:51.424 INFO  preview song: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=fd44f470d1a04de88157a34f357c909a 
+22:10:51.424 INFO  album: I Want It That Way 
+22:10:51.424 INFO  ==================THE END================= 
+22:10:51.424 INFO  ================ Song Info ================ 
+22:10:51.424 INFO  artist(s): Scott Bradlee's Postmodern Jukebox,Shoshana Bean 
+22:10:51.424 INFO  song name: I Want It That Way 
+22:10:51.424 INFO  preview song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=fd44f470d1a04de88157a34f357c909a 
+22:10:51.424 INFO  album: Selfies on Kodachrome 
+22:10:51.424 INFO  ==================THE END================= 
+22:10:51.424 INFO  ================ Song Info ================ 
+22:10:51.424 INFO  artist(s): "Weird Al" Yankovic 
+22:10:51.424 INFO  song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys) 
+22:10:51.424 INFO  preview song: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=fd44f470d1a04de88157a34f357c909a 
+22:10:51.424 INFO  album: The Essential "Weird Al" Yankovic 
+22:10:51.424 INFO  ==================THE END================= 
+22:10:51.424 INFO  ================ Song Info ================ 
+22:10:51.424 INFO  artist(s): Yshop 
+22:10:51.424 INFO  song name: I Want It That Way 
+22:10:51.424 INFO  preview song: https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=fd44f470d1a04de88157a34f357c909a 
+22:10:51.424 INFO  album: I Want It That Way 
+22:10:51.424 INFO  ==================THE END================= 
+22:10:51.424 INFO  ================ Song Info ================ 
+22:10:51.424 INFO  artist(s): Backstreet Boys 
+22:10:51.424 INFO  song name: I Want It That Way 
+22:10:51.424 INFO  preview song: https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=fd44f470d1a04de88157a34f357c909a 
+22:10:51.424 INFO  album: NOW That's What I Call 90s Pop 
+22:10:51.424 INFO  ==================THE END================= 
+22:11:16.062 INFO  ================ Band Info ================ 
+22:11:16.062 INFO  Name: Bell Centre 
+22:11:16.062 INFO  Location: Montreal 
+22:11:16.062 INFO  Date of event: 2019-08-05T19:30:00 
+22:11:16.062 INFO  ==================THE END================= 
+22:11:16.062 INFO  ================ Band Info ================ 
+22:11:16.062 INFO  Name: Videotron Centre 
+22:11:16.062 INFO  Location: Ville De Québec 
+22:11:16.062 INFO  Date of event: 2019-08-07T19:30:00 
+22:11:16.062 INFO  ==================THE END================= 
+22:11:16.062 INFO  ================ Band Info ================ 
+22:11:16.062 INFO  Name: Budweiser Stage 
+22:11:16.062 INFO  Location: Toronto 
+22:11:16.062 INFO  Date of event: 2019-08-09T19:30:00 
+22:11:16.062 INFO  ==================THE END================= 
+22:11:16.062 INFO  ================ Band Info ================ 
+22:11:16.062 INFO  Name: Budweiser Stage 
+22:11:16.062 INFO  Location: Toronto 
+22:11:16.062 INFO  Date of event: 2019-08-10T19:30:00 
+22:11:16.062 INFO  ==================THE END================= 
+22:11:16.062 INFO  ================ Band Info ================ 
+22:11:16.062 INFO  Name: KeyBank Center 
+22:11:16.062 INFO  Location: Buffalo 
+22:11:16.062 INFO  Date of event: 2019-08-13T19:30:00 
+22:11:16.062 INFO  ==================THE END================= 
+22:11:16.062 INFO  ================ Band Info ================ 
+22:11:16.062 INFO  Name: Riverbend Music Center 
+22:11:16.062 INFO  Location: Cincinnati 
+22:11:16.062 INFO  Date of event: 2019-08-15T19:30:00 
+22:11:16.062 INFO  ==================THE END================= 
+22:11:16.062 INFO  ================ Band Info ================ 
+22:11:16.062 INFO  Name: PPG Paints Arena 
+22:11:16.062 INFO  Location: Pittsburgh 
+22:11:16.062 INFO  Date of event: 2019-08-17T19:30:00 
+22:11:16.062 INFO  ==================THE END================= 
+22:11:16.062 INFO  ================ Band Info ================ 
+22:11:16.062 INFO  Name: Bridgestone Arena 
+22:11:16.062 INFO  Location: Nashville 
+22:11:16.062 INFO  Date of event: 2019-08-19T19:30:00 
+22:11:16.062 INFO  ==================THE END================= 
+22:11:16.062 INFO  ================ Band Info ================ 
+22:11:16.062 INFO  Name: Hollywood Casino Amphitheatre - Chicago, IL 
+22:11:16.062 INFO  Location: Tinley Park 
+22:11:16.062 INFO  Date of event: 2019-08-22T19:30:00 
+22:11:16.062 INFO  ==================THE END================= 
+22:11:16.062 INFO  ================ Band Info ================ 
+22:11:16.062 INFO  Name: Ruoff Home Mortgage Music Center 
+22:11:16.062 INFO  Location: Noblesville 
+22:11:16.062 INFO  Date of event: 2019-08-24T19:30:00 
+22:11:16.062 INFO  ==================THE END================= 
+22:11:16.062 INFO  ================ Band Info ================ 
+22:11:16.062 INFO  Name: Xcel Energy Center 
+22:11:16.062 INFO  Location: St Paul 
+22:11:16.062 INFO  Date of event: 2019-08-26T19:30:00 
+22:11:16.062 INFO  ==================THE END================= 
+22:11:16.062 INFO  ================ Band Info ================ 
+22:11:16.062 INFO  Name: Bell MTS Place 
+22:11:16.062 INFO  Location: Winnipeg 
+22:11:16.062 INFO  Date of event: 2019-08-28T19:30:00 
+22:11:16.062 INFO  ==================THE END================= 
+22:11:16.062 INFO  ================ Band Info ================ 
+22:11:16.062 INFO  Name: Rogers Place 
+22:11:16.062 INFO  Location: Edmonton 
+22:11:16.062 INFO  Date of event: 2019-08-30T19:30:00 
+22:11:16.062 INFO  ==================THE END================= 
+22:11:16.062 INFO  ================ Band Info ================ 
+22:11:16.062 INFO  Name: Scotiabank Saddledome 
+22:11:16.062 INFO  Location: Calgary 
+22:11:16.062 INFO  Date of event: 2019-08-31T19:30:00 
+22:11:16.062 INFO  ==================THE END================= 
+22:11:16.062 INFO  ================ Band Info ================ 
+22:11:16.062 INFO  Name: Rogers Arena 
+22:11:16.062 INFO  Location: Vancouver 
+22:11:16.062 INFO  Date of event: 2019-09-03T19:30:00 
+22:11:16.062 INFO  ==================THE END================= 
+22:11:16.062 INFO  ================ Band Info ================ 
+22:11:16.062 INFO  Name: Tacoma Dome 
+22:11:16.062 INFO  Location: Tacoma 
+22:11:16.062 INFO  Date of event: 2019-09-05T19:30:00 
+22:11:16.062 INFO  ==================THE END================= 
+22:11:16.062 INFO  ================ Band Info ================ 
+22:11:16.062 INFO  Name: Moda Center 
+22:11:16.062 INFO  Location: Portland 
+22:11:16.062 INFO  Date of event: 2019-09-06T19:30:00 
+22:11:16.062 INFO  ==================THE END================= 
+22:11:16.062 INFO  ================ Band Info ================ 
+22:11:16.062 INFO  Name: Golden 1 Center 
+22:11:16.062 INFO  Location: Sacramento 
+22:11:16.062 INFO  Date of event: 2019-09-09T19:30:00 
+22:11:16.062 INFO  ==================THE END================= 
+22:11:16.062 INFO  ================ Band Info ================ 
+22:11:16.062 INFO  Name: Oracle Arena 
+22:11:16.062 INFO  Location: Oakland 
+22:11:16.062 INFO  Date of event: 2019-09-10T19:30:00 
+22:11:16.062 INFO  ==================THE END================= 
+22:11:16.062 INFO  ================ Band Info ================ 
+22:11:16.062 INFO  Name: MGM Grand Garden Arena 
+22:11:16.062 INFO  Location: Las Vegas 
+22:11:16.062 INFO  Date of event: 2019-09-13T19:30:00 
+22:11:16.062 INFO  ==================THE END================= 
+22:11:16.062 INFO  ================ Band Info ================ 
+22:11:16.062 INFO  Name: Banc of California Stadium 
+22:11:16.062 INFO  Location: Los Angeles 
+22:11:16.062 INFO  Date of event: 2019-09-14T19:00:00 
+22:11:16.062 INFO  ==================THE END================= 
+22:11:16.062 INFO  ================ Band Info ================ 
+22:11:16.062 INFO  Name: Talking Stick Resort Arena 
+22:11:16.062 INFO  Location: Phoenix 
+22:11:16.062 INFO  Date of event: 2019-09-17T19:30:00 
+22:11:16.062 INFO  ==================THE END================= 
+22:11:16.062 INFO  ================ Band Info ================ 
+22:11:16.062 INFO  Name: Isleta Amphitheater 
+22:11:16.062 INFO  Location: Albuquerque 
+22:11:16.062 INFO  Date of event: 2019-09-19T19:30:00 
+22:11:16.062 INFO  ==================THE END================= 
+22:11:16.062 INFO  ================ Band Info ================ 
+22:11:16.062 INFO  Name: Dos Equis Pavilion 
+22:11:16.062 INFO  Location: Dallas 
+22:11:16.062 INFO  Date of event: 2019-09-21T19:30:00 
+22:11:16.062 INFO  ==================THE END================= 
+22:11:16.062 INFO  ================ Band Info ================ 
+22:11:16.062 INFO  Name: The Cynthia Woods Mitchell Pavilion 
+22:11:16.062 INFO  Location: The Woodlands 
+22:11:16.062 INFO  Date of event: 2019-09-22T19:30:00 
+22:11:16.062 INFO  ==================THE END================= 
+22:11:16.062 INFO  ================ Band Info ================ 
+22:11:16.062 INFO  Name: AT&T Center 
+22:11:16.062 INFO  Location: San Antonio 
+22:11:16.062 INFO  Date of event: 2019-09-25T19:30:00 
+22:11:16.062 INFO  ==================THE END================= 
+22:11:16.062 INFO  ================ Band Info ================ 
+22:11:16.062 INFO  Name: Palacio de los Deportes 
+22:11:16.062 INFO  Location: Nuevo Mexico 
+22:11:16.062 INFO  Date of event: 2019-09-27T19:00:42 
+22:11:16.062 INFO  ==================THE END================= 
+22:11:16.062 INFO  ================ Band Info ================ 
+22:11:16.062 INFO  Name: Palacio de los Deportes 
+22:11:16.062 INFO  Location: Mexico 
+22:11:16.062 INFO  Date of event: 2019-09-29T19:00:00 
+22:11:16.062 INFO  ==================THE END================= 
+22:11:16.062 INFO  ================ Band Info ================ 
+22:11:16.062 INFO  Name: Sports Palace 
+22:11:16.062 INFO  Location: Mexico City 
+22:11:16.062 INFO  Date of event: 2019-09-30T19:00:18 
+22:11:16.062 INFO  ==================THE END================= 
+22:11:16.062 INFO  ================ Band Info ================ 
+22:11:16.062 INFO  Name: Rock in Rio 
+22:11:16.062 INFO  Location: Rio De Janeiro 
+22:11:16.062 INFO  Date of event: 2019-10-04T19:00:00 
+22:11:16.062 INFO  ==================THE END================= 
+22:11:16.062 INFO  ================ Band Info ================ 
+22:11:16.062 INFO  Name: São Paulo Morumbi Stadium Mania 
+22:11:16.062 INFO  Location: Sao Paulo 
+22:11:16.062 INFO  Date of event: 2019-10-06T19:00:52 
+22:11:16.062 INFO  ==================THE END================= 
+22:11:16.062 INFO  ================ Band Info ================ 
+22:11:16.062 INFO  Name: Arena do Grêmio 
+22:11:16.062 INFO  Location: Humaita 
+22:11:16.062 INFO  Date of event: 2019-10-09T19:00:25 
+22:11:16.062 INFO  ==================THE END================= 
+22:11:16.062 INFO  ================ Band Info ================ 
+22:11:16.062 INFO  Name: Velez Sarsfield Stadium 
+22:11:16.062 INFO  Location: Buenos Aires 
+22:11:16.062 INFO  Date of event: 2019-10-12T19:00:22 
+22:11:16.062 INFO  ==================THE END================= 
+22:11:16.062 INFO  ================ Band Info ================ 
+22:11:16.062 INFO  Name: Movistar Arena 
+22:11:16.062 INFO  Location: Santiago 
+22:11:16.062 INFO  Date of event: 2019-10-14T19:00:27 
+22:11:16.062 INFO  ==================THE END================= 
+22:11:16.062 INFO  ================ Band Info ================ 
+22:11:16.062 INFO  Name: Estadio Nacional 
+22:11:16.062 INFO  Location: Santiago 
+22:11:16.062 INFO  Date of event: 2019-10-15T19:00:37 
+22:11:16.062 INFO  ==================THE END================= 
+22:11:27.324 INFO  ================ Song Info ================ 
+22:11:27.324 INFO  artist(s): Travis Scott 
+22:11:27.324 INFO  song name: BUTTERFLY EFFECT 
+22:11:27.324 INFO  preview song: https://p.scdn.co/mp3-preview/ca4f131887eae894020e48ea809af1186c95f542?cid=fd44f470d1a04de88157a34f357c909a 
+22:11:27.324 INFO  album: ASTROWORLD 
+22:11:27.324 INFO  ==================THE END================= 
+22:11:27.324 INFO  ================ Song Info ================ 
+22:11:27.324 INFO  artist(s): DJ Snake 
+22:11:27.324 INFO  song name: Butterfly Effect 
+22:11:27.324 INFO  preview song: null 
+22:11:27.324 INFO  album: Carte Blanche 
+22:11:27.324 INFO  ==================THE END================= 
+22:11:27.324 INFO  ================ Song Info ================ 
+22:11:27.324 INFO  artist(s): Crazy Town 
+22:11:27.324 INFO  song name: Butterfly 
+22:11:27.324 INFO  preview song: https://p.scdn.co/mp3-preview/8bab4427d8ce0fcb58daacaa20d19864554806f1?cid=fd44f470d1a04de88157a34f357c909a 
+22:11:27.324 INFO  album: The Gift Of Game 
+22:11:27.324 INFO  ==================THE END================= 
+22:11:27.324 INFO  ================ Song Info ================ 
+22:11:27.324 INFO  artist(s): The Smashing Pumpkins 
+22:11:27.324 INFO  song name: Bullet With Butterfly Wings - Remastered 2012 
+22:11:27.324 INFO  preview song: null 
+22:11:27.324 INFO  album: Mellon Collie And The Infinite Sadness (Deluxe Edition) 
+22:11:27.324 INFO  ==================THE END================= 
+22:11:27.324 INFO  ================ Song Info ================ 
+22:11:27.324 INFO  artist(s): Lil Pump 
+22:11:27.324 INFO  song name: Butterfly Doors 
+22:11:27.324 INFO  preview song: https://p.scdn.co/mp3-preview/452b1a52556442cab425d46b31dd7e7ea9a402ba?cid=fd44f470d1a04de88157a34f357c909a 
+22:11:27.324 INFO  album: Butterfly Doors 
+22:11:27.324 INFO  ==================THE END================= 
+22:11:27.324 INFO  ================ Song Info ================ 
+22:11:27.324 INFO  artist(s): Kendrick Lamar 
+22:11:27.324 INFO  song name: King Kunta 
+22:11:27.324 INFO  preview song: null 
+22:11:27.324 INFO  album: To Pimp A Butterfly 
+22:11:27.324 INFO  ==================THE END================= 
+22:11:27.324 INFO  ================ Song Info ================ 
+22:11:27.324 INFO  artist(s): BTS 
+22:11:27.324 INFO  song name: Butterfly 
+22:11:27.324 INFO  preview song: https://p.scdn.co/mp3-preview/84c4e56fe5b82960582b5eedfe5d8ffa5ecdcc34?cid=fd44f470d1a04de88157a34f357c909a 
+22:11:27.324 INFO  album: The Most Beautiful Moment in Life Pt.2 
+22:11:27.324 INFO  ==================THE END================= 
+22:11:27.324 INFO  ================ Song Info ================ 
+22:11:27.324 INFO  artist(s): Kendrick Lamar 
+22:11:27.324 INFO  song name: Alright 
+22:11:27.324 INFO  preview song: null 
+22:11:27.324 INFO  album: To Pimp A Butterfly 
+22:11:27.324 INFO  ==================THE END================= 
+22:11:27.324 INFO  ================ Song Info ================ 
+22:11:27.324 INFO  artist(s): LOOΠΔ 
+22:11:27.324 INFO  song name: Butterfly 
+22:11:27.324 INFO  preview song: https://p.scdn.co/mp3-preview/3a6cf5f0bd473e4b1ef45e4036a93dbbce4f6ad3?cid=fd44f470d1a04de88157a34f357c909a 
+22:11:27.324 INFO  album: [X X] 
+22:11:27.324 INFO  ==================THE END================= 
+22:11:27.324 INFO  ================ Song Info ================ 
+22:11:27.324 INFO  artist(s): UMI 
+22:11:27.324 INFO  song name: Butterfly 
+22:11:27.324 INFO  preview song: https://p.scdn.co/mp3-preview/961884e1a86d9174435ef3a879d7440cddf72c1a?cid=fd44f470d1a04de88157a34f357c909a 
+22:11:27.324 INFO  album: Butterfly 
+22:11:27.324 INFO  ==================THE END================= 
+22:11:27.324 INFO  ================ Song Info ================ 
+22:11:27.324 INFO  artist(s): Lil Pump 
+22:11:27.325 INFO  song name: Butterfly Doors 
+22:11:27.325 INFO  preview song: https://p.scdn.co/mp3-preview/452b1a52556442cab425d46b31dd7e7ea9a402ba?cid=fd44f470d1a04de88157a34f357c909a 
+22:11:27.325 INFO  album: Harverd Dropout 
+22:11:27.325 INFO  ==================THE END================= 
+22:11:27.325 INFO  ================ Song Info ================ 
+22:11:27.325 INFO  artist(s): Miley Cyrus,Billy Ray Cyrus 
+22:11:27.325 INFO  song name: Butterfly Fly Away 
+22:11:27.325 INFO  preview song: null 
+22:11:27.325 INFO  album: Hannah Montana The Movie 
+22:11:27.325 INFO  ==================THE END================= 
+22:11:27.325 INFO  ================ Song Info ================ 
+22:11:27.325 INFO  artist(s): Kehlani 
+22:11:27.325 INFO  song name: Butterfly 
+22:11:27.325 INFO  preview song: https://p.scdn.co/mp3-preview/3b027cc9f7a48931cde301b51eea04e16310bc6e?cid=fd44f470d1a04de88157a34f357c909a 
+22:11:27.325 INFO  album: While We Wait 
+22:11:27.325 INFO  ==================THE END================= 
+22:11:27.325 INFO  ================ Song Info ================ 
+22:11:27.325 INFO  artist(s): Daigo Hanada 
+22:11:27.325 INFO  song name: Butterfly 
+22:11:27.325 INFO  preview song: https://p.scdn.co/mp3-preview/843f0f254fc18f2f993058daf23f288532e73fa7?cid=fd44f470d1a04de88157a34f357c909a 
+22:11:27.325 INFO  album: Ichiru 
+22:11:27.325 INFO  ==================THE END================= 
+22:11:27.325 INFO  ================ Song Info ================ 
+22:11:27.325 INFO  artist(s): Kehlani 
+22:11:27.325 INFO  song name: Butterfly 
+22:11:27.325 INFO  preview song: https://p.scdn.co/mp3-preview/3b027cc9f7a48931cde301b51eea04e16310bc6e?cid=fd44f470d1a04de88157a34f357c909a 
+22:11:27.325 INFO  album: While We Wait 
+22:11:27.325 INFO  ==================THE END================= 
+22:11:27.325 INFO  ================ Song Info ================ 
+22:11:27.325 INFO  artist(s): Mariah Carey 
+22:11:27.325 INFO  song name: Honey 
+22:11:27.325 INFO  preview song: https://p.scdn.co/mp3-preview/a8bf7d19349fe516fa6b354156976d12688d99bf?cid=fd44f470d1a04de88157a34f357c909a 
+22:11:27.325 INFO  album: Butterfly 
+22:11:27.325 INFO  ==================THE END================= 
+22:11:27.325 INFO  ================ Song Info ================ 
+22:11:27.325 INFO  artist(s): Porno Graffitti 
+22:11:27.325 INFO  song name: The Day 
+22:11:27.325 INFO  preview song: https://p.scdn.co/mp3-preview/bb29318a07e7256b5bf7a95d47aee3e8e6624d5b?cid=fd44f470d1a04de88157a34f357c909a 
+22:11:27.325 INFO  album: Butterfly Effect 
+22:11:27.325 INFO  ==================THE END================= 
+22:11:27.325 INFO  ================ Song Info ================ 
+22:11:27.325 INFO  artist(s): BTS 
+22:11:27.325 INFO  song name: Butterfly 
+22:11:27.325 INFO  preview song: https://p.scdn.co/mp3-preview/b9c16a8363575767659ffd96c696ae8411eb5ee9?cid=fd44f470d1a04de88157a34f357c909a 
+22:11:27.325 INFO  album: The Most Beautiful Moment in Life: Young Forever 
+22:11:27.325 INFO  ==================THE END================= 
+22:11:27.325 INFO  ================ Song Info ================ 
+22:11:27.325 INFO  artist(s): Kendrick Lamar,Bilal,Anna Wise,Thundercat 
+22:11:27.325 INFO  song name: These Walls 
+22:11:27.325 INFO  preview song: null 
+22:11:27.325 INFO  album: To Pimp A Butterfly 
+22:11:27.325 INFO  ==================THE END================= 
+22:11:27.325 INFO  ================ Song Info ================ 
+22:11:27.325 INFO  artist(s): Kendrick Lamar 
+22:11:27.325 INFO  song name: The Blacker The Berry 
+22:11:27.325 INFO  preview song: null 
+22:11:27.325 INFO  album: To Pimp A Butterfly 
+22:11:27.325 INFO  ==================THE END================= 
+22:11:42.705 INFO  ================ Movie Info ================ 
+22:11:42.705 INFO  Title: The Matrix 
+22:11:42.705 INFO  Release Year: 1999 
+22:11:42.705 INFO  IMdB Rating: 8.7 
+22:11:42.705 INFO  Country: USA 
+22:11:42.705 INFO  Language: English 
+22:11:42.705 INFO  Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers. 
+22:11:42.705 INFO  Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving 
+22:11:42.705 INFO  Rotten Tomatoes Rating: 8.7/10 
+22:11:42.705 INFO  Rotten Tomatoes URL: http://www.rottentomatoes.com/m/matrix/ 
+22:11:42.705 INFO  ==================THE END================= 
